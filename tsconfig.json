@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "es5",                    // Kompilert til ECMAScript 5
+    "module": "commonjs",               // Bruk CommonJS-moduler
+    "strict": true,                     // Aktiver alle strenge typekontroller
+    "esModuleInterop": true,            // Tillat import av moduler som bruker 'export =' -syntaxen
+    "lib": ["es2015", "dom"]            // Inkluder ES2015- og DOM-biblioteker
+  }
+}
