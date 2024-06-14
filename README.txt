@@ -15,7 +15,7 @@ This project is a Bridge Robot server implemented in Node.js with TypeScript. Th
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/bridge-robot.git
+    git clone -->
     cd bridge-robot
     ```
 
